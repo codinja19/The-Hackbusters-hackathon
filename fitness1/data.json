@@ -1,0 +1,74 @@
+{
+  "Rahul": {
+    "password": "123456",
+    "steps": 0,
+    "lastStepDate": "2025-05-25",
+    "goal": 65000,
+    "calories": 0,
+    "rewards": 0,
+    "hasFreeHealthCheckup": false,
+    "lastRewardStep": 21000,
+    "hasFreeTest": false,
+    "consultationUnlocked": false,
+    "ViewPlan": {
+      "company": "MediCare Plus",
+      "type": "Gold Care",
+      "validTill": "Dec 2025"
+    },
+    "stepsToday": 0,
+    "rewardedToday": false
+  },
+  "john": {
+    "password": "123456",
+    "steps": 6130,
+    "stepsToday": 6130,
+    "lastStepDate": "2025-05-25",
+    "rewardedToday": false,
+    "goal": 7000,
+    "calories": 120,
+    "rewards": 0,
+    "hasFreeHealthCheckup": false
+  },
+  "jaypee": {
+    "steps": 0,
+    "stepsToday": 0,
+    "lastStepDate": "2025-05-25",
+    "rewardedToday": false,
+    "goal": 7000,
+    "calories": 0,
+    "rewards": 0,
+    "hasFreeHealthCheckup": false
+  },
+  "Mahipal": {
+    "password": "123456",
+    "steps": 0,
+    "stepsToday": 0,
+    "lastStepDate": "2025-05-25",
+    "rewardedToday": false,
+    "goal": 7000,
+    "calories": 0,
+    "rewards": 0,
+    "hasFreeHealthCheckup": false
+  },
+  "undefined": {
+    "steps": 0,
+    "stepsToday": 0,
+    "lastStepDate": "2025-05-25",
+    "rewardedToday": false,
+    "goal": 7000,
+    "calories": 0,
+    "rewards": 0,
+    "hasFreeHealthCheckup": false
+  },
+  "Jai": {
+    "password": "0123456",
+    "steps": 11000,
+    "stepsToday": 11000,
+    "lastStepDate": "2025-05-25",
+    "rewardedToday": true,
+    "goal": 7000,
+    "calories": 150,
+    "rewards": 1,
+    "hasFreeHealthCheckup": false
+  }
+}
